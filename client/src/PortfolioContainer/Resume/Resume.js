@@ -75,14 +75,14 @@ const Resume = (props) => {
 
     const projectDetails = [
         {
-            title: "Personal Portfolio Website",
-            description: "A Personal Portfolio website to showcase my skills and projects in one place.",
-            subHeading: "Technologies Used: React Js, Bootstrap"
+            title: "PEER ARCHITECT",
+            description: " An online platform designed to help companies build, analyze, and monitortheir executive compensation and/or performance peer groups.",
+            subHeading: "Technologies Used: Java Springboot, Angular, SQL server"
         },
         {
-            title: "E-voting using Homomorphic encryption",
-            description: "It is an application that will be developed with the prime idea to protect the voting privacy of the people.",
-            subHeading: "Technologies Used: C++"
+            title: "ESG CORPORATE RATING",
+            description: "It is an application where corporate ratings are used to evaluate the sustainability and ethical impact of a company’s operations.",
+            subHeading: "Technologies Used: Java Springboot, Angular, SQL server"
         },
     ]
 
@@ -92,8 +92,8 @@ const Resume = (props) => {
             <ResumeHeading
                 heading={"Vellore Institute Of Technology, Vellore"}
                 subHeading={"BACHELOR OF ENGINEERING IN COMPUTER SCIENCE"}
-                fromDate={"2018"}
-                toDate={"2022"}
+                fromDate={"2019"}
+                toDate={"2023"}
             />
            
         </div>,
@@ -103,25 +103,22 @@ const Resume = (props) => {
                 <ResumeHeading
                     heading={"Institutional Shareholder Services"}
                     subHeading={"SOFTWARE DEVELOPER"}
-                    fromDate={"January 2022"}
-                    toDate={"May 2022"}
+                    fromDate={"January 2023"}
+                    toDate={"Present"}
                 />
+                
                 <div className="experience-description">
                     <span className="resume-description-text">
-                        Immediate Joiner</span>
-                </div>
-                <div className="experience-description">
-                    <span className="resume-description-text">
-                        - Developing an web-app application for client where worked in a team. Also solved bugs
-                        raised by the client in given period of time.
+                        - Developed various single page applications using Angular, Java Spring boot, Sql server. Analyzed problem
+                        statement and investigated problem areas.
                     </span>
                     <br />
                     <span className="resume-description-text">
-                        - Implemented Google Charts within the Angular framework to create interactive and visually appealing charts and graphs.
+                        - Created visually appealing charts and graphs using D3.js, javascript library.
                     </span>
                     <br />
                     <span className="resume-description-text">
-                        - Integrated the frontend in Angular and for the backend used Java.                    </span>
+                        - Currently leveraging React.js to build responsive and highly interactive front-end interfaces. </span>
                     <br />
                     
                 </div>

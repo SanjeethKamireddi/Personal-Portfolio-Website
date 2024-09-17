@@ -14,7 +14,7 @@ const AboutMe = (props) => {
     const fadeInSubscription = ScrollService.currentScreenFadeIn.subscribe(fadeInScreenHandler)
 
     const SCREEN_CONSTANTS = {
-        description: "Software Developer with 2.5 years of experience. I've completed my education in CSE from Mumbai University. Currently working as Software Developer in Arrk Groups Pvt Ltd.",
+        description: "Software Developer with 1.9 years of experience. I've completed my education in CSE from VIT University. Currently working as Software Developer in Institutional Shareholder Services.",
         highlights: {
             bullets: [
                 "Software Developer",
@@ -62,7 +62,7 @@ const AboutMe = (props) => {
                                 {""}
                                 Hire Me {" "}
                             </button> */}
-                            <a href='SanjeethResume.pdf' download="Sanjeeth resume.pdf">
+                            <a href='AkhilGajula_Resume.pdf' download="Akhil resume.pdf">
                                 <button className='btn highlighted-btn'>Get Resume</button>
                             </a>
                         </div>

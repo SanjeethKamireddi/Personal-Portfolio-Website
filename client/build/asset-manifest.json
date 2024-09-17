@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8f453ac.css",
+    "main.js": "/static/js/main.a620ef50.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/Montserrat-Black.ttf": "/static/media/Montserrat-Black.46e8b3d6aad654578958.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.e2d60bc49517598c0ce8.ttf",
+    "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.02afb26fe72fcc052988.ttf",
+    "static/media/Poppins-Thin.ttf": "/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/mailz.jpeg": "/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/profile.jpg": "/static/media/profile.a405b7c0b03034910a6d.jpg",
+    "static/media/Allan-Bold.ttf": "/static/media/Allan-Bold.e5a9b5777d1d14b1a26c.ttf",
+    "static/media/Allan-Regular.ttf": "/static/media/Allan-Regular.ad94ac38a4e9169b64e4.ttf",
+    "static/media/logo.png": "/static/media/logo.1c62ae35f975c52112a6.png",
+    "static/media/bg.jpg": "/static/media/bg.d580cd375921d13ae60d.jpg",
+    "static/media/OstrichSans-Black.otf": "/static/media/OstrichSans-Black.4009267c4cf3cf9d8fe7.otf",
+    "static/media/programming-skills.svg": "/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "index.html": "/index.html",
+    "static/media/projects.svg": "/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/static/media/education.10cfa28a40119ebd70cf.svg",
+    "static/media/work-history.svg": "/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.e8f453ac.css.map": "/static/css/main.e8f453ac.css.map",
+    "main.a620ef50.js.map": "/static/js/main.a620ef50.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8f453ac.css",
+    "static/js/main.a620ef50.js"
+  ]
+}
