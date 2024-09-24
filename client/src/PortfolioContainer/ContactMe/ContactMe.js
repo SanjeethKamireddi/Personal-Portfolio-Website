@@ -72,7 +72,15 @@ const ContactMe = (props) => {
                             ]}
                         />
                     </h2>
-               
+                    <a href='https://www.linkedin.com/in/sanjeeth-kamireddi-a32800220/' target="_blank">
+                        <i className='fa fa-linkedin-square'></i>
+                    </a>
+                    <a href='https://www.instagram.com/kamireddisanjeeth/' target="_blank">
+                        <i className='fa fa-instagram'></i>
+                    </a>
+                    <a href='https://github.com/SanjeethKamireddi' target="_blank">
+                        <i className='fa fa-github'></i>
+                    </a>
                 </div>
                 <div className='back-form'>
                     <div className='img-back'>
